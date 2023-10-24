@@ -7,7 +7,7 @@ A python keylogger with features like recording audio, taking screenshots, retri
 - Keylogging
 - Audio Recording
 - Screenshots of set number of monitors
-- Encryption (& decryption) of log files gathered using Ferenet (symmertic encryption)
+- Encryption (& decryption) of log files gathered using Ferenet (symmetric encryption)
 - Gethering of system information including:
   - Hostname
   - Internal IP
